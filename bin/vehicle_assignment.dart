@@ -1,4 +1,3 @@
-
 abstract class Vehicle {
   int _speed = 0;
   void  move();
